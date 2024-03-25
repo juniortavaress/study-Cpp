@@ -3,7 +3,7 @@
 using namespace std;
 
 // To compile more than one file
-// g++ main_class.cpp example.cpp -o output\example_of_class_different_files.exe
+// g++ main_example.cpp example.cpp -o output\example_of_class_different_files.exe
 
 int main(){
     int flavor;
